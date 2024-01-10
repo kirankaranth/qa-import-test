@@ -2,7 +2,7 @@ name: KiranProjectStagingForImport
 description: ''
 version: 0.0.1
 author: kiranadmin@prophecy.io
-language: python
+language: scala
 buildSystem: ''
 buildSystemDetails:
   artefactID: kiranprojectstagingforimport
@@ -49,7 +49,7 @@ sqlPipeline: null
 dependencies: '[]'
 projectDependencies:
   '42':
-    projectUID: 42
+    projectUID: 1
     projectName: ProphecySparkBasicsPython
     repositoryPath: gitUri=http://gitserver:3000/9gt3CHHz_team_9/pJIIcs5r_project_42.git&subPath=
     version: 0.0.7
@@ -57,7 +57,7 @@ projectDependencies:
     author: null
     createdAt: '2024-01-09 11:05:24'
   '43':
-    projectUID: 43
+    projectUID: 2
     projectName: ProphecyWarehousePython
     repositoryPath: gitUri=http://gitserver:3000/9gt3CHHz_team_9/pJIIcs5r_project_43.git&subPath=
     version: 0.0.2
